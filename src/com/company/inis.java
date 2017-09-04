@@ -7,9 +7,6 @@ import java.util.Date;
 import java.util.List;
 import java.util.Properties;
 
-/**
- * Created by Administrator on 12/01/2017.
- */
 public class inis {
 
     public static void main(String[] args) throws IOException, InterruptedException {
