@@ -1,6 +1,4 @@
-package com.company; /**
- * Created by Administrator on 12/01/2017.
- */
+package com.company; 
 
 import javax.net.ssl.*;
 import java.security.cert.CertificateException;
