@@ -1,0 +1,31 @@
+{
+  "name": "inis lite",
+  "version": "2.01",
+  "description": "Check the Availability of INIS Appointment more simpler ",
+  "permissions": [
+    "activeTab",
+    "https://burghquayregistrationoffice.inis.gov.ie/Website/AMSREG/AMSRegWeb.nsf/AppSelect?OpenForm"
+  ],
+  "background": {
+    "scripts": [
+      "glue.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://burghquayregistrationoffice.inis.gov.ie/Website/AMSREG/AMSRegWeb.nsf/AppSelect?OpenForm"
+      ],
+      "js": [
+        "injections.js"
+      ]
+    }
+  ],
+  "browser_action": {
+    "default_icon": "img/inisReg.png",
+    "default_title": "INIS Appointment Checker"
+  },
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'"
+}
+
