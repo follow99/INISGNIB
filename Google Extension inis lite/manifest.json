@@ -1,7 +1,7 @@
 {
-  "name": "inis lite",
-  "version": "2.01",
-  "description": "Check the Availability of INIS Appointment more simpler ",
+  "name": "INIS GNIB lite",
+  "version": "3.00",
+  "description": "Check the Availability of INIS Appointment more simple ",
   "permissions": [
     "activeTab",
     "https://burghquayregistrationoffice.inis.gov.ie/Website/AMSREG/AMSRegWeb.nsf/AppSelect?OpenForm"
@@ -23,7 +23,7 @@
   ],
   "browser_action": {
     "default_icon": "img/inisReg.png",
-    "default_title": "INIS Appointment Checker"
+    "default_title": "INIS GNIB lite"
   },
   "manifest_version": 2,
   "content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'"
