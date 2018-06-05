@@ -7,7 +7,7 @@ However those Java Code requires JRE has been installed on user's PC. To avoid t
 Almost year later the Chrome extension has been made called as "inis lite".
 
 <a href="https://chrome.google.com/webstore/detail/inis-lite/jknfcjdggliplhgdhhcbkenlidkilnah">
-<img src="http://i67.tinypic.com/2nktiyc.png">
+<img src="http://i66.tinypic.com/i6xbvl.png">
 </a>
 
 The Google Extension folder contains Chrome Extension code in Javascript,
