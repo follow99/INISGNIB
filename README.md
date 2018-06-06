@@ -4,7 +4,7 @@ Make INIS online Appointment registration more easier
 The Java folder contains the Java code which was using for the same propose.
 However those Java Code requires JRE has been installed on user's PC. To avoid the limitation 
 
-Almost year later the Chrome extension has been made called as "inis lite".
+Almost year later the Chrome extension has been made called as "INIS GNIB lite".
 
 <a href="https://chrome.google.com/webstore/detail/inis-lite/jknfcjdggliplhgdhhcbkenlidkilnah">
 <img src="http://i68.tinypic.com/bhhmc7.png">
