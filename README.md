@@ -11,9 +11,10 @@ Almost year later the Chrome extension has been made called as "inis lite".
 </a>
 
 The Google Extension folder contains Chrome Extension code in Javascript,
-
+ 
 which is more easier to use.   
 
+Furthermore due to compression the original Javascript code may not able to read .The readable code please check the newFunctions.js
 
 
 
