@@ -23,5 +23,5 @@ Furthermore due to compression the original Javascript code may not able to read
 
 <img src="http://i67.tinypic.com/t0kh9g.png">
 
-since 4.0 version
+since version 4.0 
 <img src="http://i66.tinypic.com/ic8l7c.png">
